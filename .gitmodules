@@ -1,0 +1,3 @@
+[submodule "kwsk-frontend"]
+	path = kwsk-frontend
+	url = git@github.com:hyrrot/kwsk-frontend.git
