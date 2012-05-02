@@ -4,3 +4,6 @@
 [submodule "kwsk-coordinator"]
 	path = kwsk-coordinator
 	url = git@github.com:hyrrot/kwsk-coordinator.git
+[submodule "kwsk-features"]
+	path = kwsk-features
+	url = git@github.com:hyrrot/kwsk-features.git
