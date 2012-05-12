@@ -1,4 +1,4 @@
 kwsk / Kawasaki
 ====
 
-a open-source television recorder
+An open-source television recorder.
